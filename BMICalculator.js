@@ -1,11 +1,13 @@
 //BMI Calculator
 
+alert("This program is for learning purposes and is not meant as any form of medical advice")
+
 var HeightInches      = "60";
 var WeightPounds      = "140";
 var HeightCentimeters = 150;
 var WeightKilos       = 228;   
 var BMI               = 16;
-var WellnessLevel          = "Healthy"//Underweight, Healthy, Overweight, Obese
+var WellnessLevel     = "Healthy"//Underweight, Healthy, Overweight, Obese
 
 HeightInches = prompt("Enter height in inches");
 
